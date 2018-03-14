@@ -132,4 +132,52 @@ K Expander I2C Parallel Port GPIO Maxim
 F https://datasheets.maximintegrated.com/en/ds/MAX7325.pdf
 $ENDCMP
 #
+$CMP MAX8211
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, DIP-8/SOIC-8
+K Voltage Monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
+$ENDCMP
+#
+$CMP MAX8211_TO-99-8-TV
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, TO-99-8 TV
+K Voltage Monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
+$ENDCMP
+#
+$CMP MAX8211_TO-99-8-TY
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, TO-99-8 TY
+K Voltage Monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
+$ENDCMP
+#
+$CMP MAX8211_uMAX
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, uMAX-8/uSOP-8
+K Voltage Monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
+$ENDCMP
+#
+$CMP MAX8212
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, DIP-8/SOIC-8
+K Voltage Monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
+$ENDCMP
+#
+$CMP MAX8212_TO-99-8-TV
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, TO-99-8 TV
+K Voltage Monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
+$ENDCMP
+#
+$CMP MAX8212_TO-99-8-TY
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, TO-99-8 TY
+K Voltage Monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
+$ENDCMP
+#
+$CMP MAX8212_uMAX
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, uMAX-8/uSOP-8
+K Voltage Monitor
+F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
+$ENDCMP
+#
 #End Doc Library
