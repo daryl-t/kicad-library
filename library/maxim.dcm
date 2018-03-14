@@ -133,97 +133,97 @@ F https://datasheets.maximintegrated.com/en/ds/MAX7325.pdf
 $ENDCMP
 #
 $CMP MAX8211CPA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 1.0mV, -0°C to +70°C, DIP-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 1.0mV, TYP. DELAY: t(on) 40μs t(off) 1.5ms, -0°C to +70°C, DIP-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8211CSA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 1.0mV, -0°C to +70°C, SOIC-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 1.0mV, TYP. DELAY: t(on) 40μs t(off) 1.5ms, -0°C to +70°C, SOIC-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8211CTY
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 1.0mV, -0°C to +70°C, TO-99-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 1.0mV, TYP. DELAY: t(on) 40μs t(off) 1.5ms, -0°C to +70°C, TO-99-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8211CUA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 1.0mV, -0°C to +70°C, uMAX-8/uSOP-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 1.0mV, TYP. DELAY: t(on) 40μs t(off) 1.5ms, -0°C to +70°C, uMAX-8/uSOP-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8211EPA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 1.0mV, -40°C to +85°C, DIP-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 1.0mV, TYP. DELAY: t(on) 40μs t(off) 1.5ms, -40°C to +85°C, DIP-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8211ESA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 1.0mV, -40°C to +85°C, SOIC-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 1.0mV, TYP. DELAY: t(on) 40μs t(off) 1.5ms, -40°C to +85°C, SOIC-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8211ETY
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 1.0mV, -40°C to +85°C, TO-99-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 1.0mV, TYP. DELAY: t(on) 40μs t(off) 1.5ms, -40°C to +85°C, TO-99-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8211MTV
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 1.0mV, -55°C to +125°C, TO-99-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 1.0mV, TYP. DELAY: t(on) 40μs t(off) 1.5ms, -55°C to +125°C, TO-99-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8212CPA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 0.2mV, -0°C to +70°C, DIP-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 0.2mV, TYP. DELAY: t(on) 250μs t(off) 3ms, -0°C to +70°C, DIP-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8212CSA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 0.2mV, -0°C to +70°C, SOIC-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 0.2mV, TYP. DELAY: t(on) 250μs t(off) 3ms, -0°C to +70°C, SOIC-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8212CTY
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 0.2mV, -0°C to +70°C, TO-99-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 0.2mV, TYP. DELAY: t(on) 250μs t(off) 3ms, -0°C to +70°C, TO-99-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8212CUA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 0.2mV, -0°C to +70°C, uMAX-8/uSOP-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 0.2mV, TYP. DELAY: t(on) 250μs t(off) 3ms, -0°C to +70°C, uMAX-8/uSOP-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8212EPA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 0.2mV, -40°C to +85°C, DIP-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 0.2mV, TYP. DELAY: t(on) 250μs t(off) 3ms, -40°C to +85°C, DIP-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8212ESA
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 0.2mV, -40°C to +85°C, SOIC-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 0.2mV, TYP. DELAY: t(on) 250μs t(off) 3ms, -40°C to +85°C, SOIC-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8212ETY
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 0.2mV, -40°C to +85°C, TO-99-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 0.2mV, TYP. DELAY: t(on) 250μs t(off) 3ms, -40°C to +85°C, TO-99-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
 #
 $CMP MAX8212MTV
-D Microprocessor Voltage Monitors with Programmable Voltage Detection, -0.5V to +18V, ±50mA, ∆V TH 0.2mV, -55°C to +125°C, TO-99-8
+D Microprocessor Voltage Monitors with Programmable Voltage Detection, 2.0V to 16.5V, ∆V TH 0.2mV, TYP. DELAY: t(on) 250μs t(off) 3ms, -55°C to +125°C, TO-99-8
 K Voltage Monitor
 F https://datasheets.maximintegrated.com/en/ds/MAX8211-MAX8212.pdf
 $ENDCMP
